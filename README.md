@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Anmol2508
 - 👀 I’m interested in ... programming
-- 🌱 I’m currently learning ... java
+- 🌱 I’m currently learning ... Node.js
+- 🌱 I’m good in C/C++, HTML, CSS, JavaScript, MySQL.
 - 💞️ I’m looking to collaborate on ... projects 
 - 📫 How to reach me ... @Anmol2508
 
